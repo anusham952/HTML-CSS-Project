@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Muli:300,700&display=swap");
 
- 
+ body{
+    display: flex;
+    background-image: url(/HTML-CSS-Project/Comment.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
 
 #box{
     width: 540px;
@@ -9,7 +14,7 @@
     padding: 25px;
     border-radius: 15px;  
     margin: 140px auto;
-    background-color: aqua;  
+    background-image: url(/HTML-CSS-Project/bk.jpg);  
 }
 .item{
     margin-top: 100pxs;
